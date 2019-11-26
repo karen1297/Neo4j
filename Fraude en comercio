@@ -1,6 +1,0 @@
-CREATE (Fernando:Persona {id:'1', nombre:'Fernando', sexo:'masculino', edad:'50'})
-CREATE (Juan:Persona {id:'2', nombre:'Juan', sexo:'masculino', edad:'48'})
-CREATE (Daniel:Persona {id:'3', nombre:'Daniel', sexo:'masculino', edad:'23'})
-CREATE (Marcos:Persona {id:'4', nombre:'Marcos', sexo:'masculino', edad:'30'})
-CREATE (Gonzalo:Persona {id:'5', nombre:'Gonzalo', sexo:'masculino', edad:'31'})
-CREATE (Marta:Persona {id:'6', nombre:'Marta', sexo:'femenino', edad:'52'})
